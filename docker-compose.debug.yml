@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  uvwinziebacatanportfolio:
-    image: uvwinziebacatanportfolio
-    build:
-      context: .
-      dockerfile: ./Dockerfile
